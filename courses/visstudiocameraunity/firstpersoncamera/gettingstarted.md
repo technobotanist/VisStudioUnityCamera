@@ -19,9 +19,9 @@ Below you will find the link to a github repo with the camera packages. You will
 
 **Switching to the Universal Render Pipeline**
 
-The ```Universal Render Pipeline``` was utilized to make the camera function properly within the Visualization Studio. ```Universal Render Pipeline``` can be installed through Unity's ```Package Manager```.
+The ```Universal Render Pipeline``` was utilized to make the camera function properly within the Visualization Studio. Universal Render Pipeline can be installed through Unity's ```Package Manager```.
 
-To configure your project to use ```Universal Render Pipeline``` we recommend that you follow the instructions found [here](https://www.tomstephensondeveloper.co.uk/post/unity-universal-render-pipeline-urp-initial-setup) as they walk you through every aspect of the configuration.
+To configure your project to use Universal Render Pipeline we recommend that you follow the instructions found [here](https://www.tomstephensondeveloper.co.uk/post/unity-universal-render-pipeline-urp-initial-setup) as they walk you through every aspect of the configuration.
 
 
 **Custom Resolution**

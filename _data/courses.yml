@@ -3,7 +3,7 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
   shorttitle: "Sections" # Short title for each course. Displays in the navigation bar.
   homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
   announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified
-  units_title: "Unit" # Label for "Unit" (singular). Defaults to "unit" if not specified.
+  units_title: "Camera" # Label for "Unit" (singular). Defaults to "unit" if not specified.
   units: #Do not change.
     1: #Unit number
       title: "3D Camera" #Title for the unit

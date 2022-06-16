@@ -9,6 +9,7 @@ unit: 1
 
 First and foremost, you are going to need a Unity project to use the camera in. The camera system was developed for Unity Version 2021.3.4f1. If you already have a project created and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version of Unity. We have done our best to keep the instructions general, but images and videos may not reflect your Unity setup.
 
+---
 
 **Download the 3D camera package**
 
@@ -16,6 +17,7 @@ Below you will find the link to a github repo with the camera packages. You will
 
 * (Provide link here)
 
+---
 
 **Switching to the Universal Render Pipeline**
 
@@ -23,6 +25,7 @@ The ```Universal Render Pipeline``` was utilized to make the camera function pro
 
 To configure your project to use Universal Render Pipeline we recommend that you follow the instructions found [here](https://www.tomstephensondeveloper.co.uk/post/unity-universal-render-pipeline-urp-initial-setup) as they walk you through every aspect of the configuration.
 
+---
 
 **Custom Resolution**
 

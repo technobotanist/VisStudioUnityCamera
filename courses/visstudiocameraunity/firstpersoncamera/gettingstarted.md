@@ -17,8 +17,6 @@ Below you will find the link to a github repo with the camera packages. You will
 
 * [3D Camera Package Download](https://github.com/Elliott-Schultz/VisStudioTesting/blob/main/Assets/Packages/3DCamera.unitypackage)
 
-![Download Camera](images/downloadcamera.png)
-
 ---
 
 **Switching to the Universal Render Pipeline**

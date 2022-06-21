@@ -33,14 +33,24 @@ In order for the camera system to function properly, you are going to need to se
 
 To set up a custom resolution, you will need to go to the game view screen in the Unity Editor.
 
-![Switch to game view](https://github.com/JaydenSansom/VisStudioUnityCamera/blob/main/courses/visstudiocameraunity/images/firstpersoncameraimages/gettingstarted/gameview.png)
+![Switch to game view](images/gameview.png)
 
 Next to the dropdown labeled Display 1, you will find another dropdown with the aspect ratios.
 
+![Open aspect ratios](images/aspectratio.png)
+
 At the bottom of that dropdown, there is an option to create a custom resolution profile. Click on that.
+
+![Click to add custom aspect ratio](images/dropdown.png)
 
 You can name the profile whatever you choose. For the purposes of this instruction, we will name it "VisStudio".
 
+![Set name of custom aspect ratio](images/namevisstudio.png)
+
 Keep the selection of Fixed Resolution and in the fields below, set the width to be ```15360``` and the height to be ```1080```.
 
+![Set values of custom aspect ratio](images/setresolution.png)
+
 Save the resolution and make sure that it is the one selected from the dropdown.
+
+![Save custom aspect ratio](images/saved.png)

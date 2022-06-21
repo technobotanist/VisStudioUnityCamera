@@ -91,7 +91,7 @@ Once you have checked that Display 1 has the correct resolution, you should chec
 
 ![Select the Eight Cameras](images/selectcameras.png)
 
-In the inspector, find the ```Camera``` component and expand the ```Projection``` tab. Here you will see a slider for the FOV. Make sure that this value is set to 45.
+In the inspector, find the ```Camera``` component and expand the ```Projection``` tab. Here you will see a slider for the Field of View. Make sure that this value is set to 45.
 
 ![Change FOV if needed to 45](images/preojectionfov.png)
 

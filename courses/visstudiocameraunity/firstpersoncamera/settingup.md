@@ -57,7 +57,13 @@ The current controls of the camera array are as follows:
 * Vertical Movent: Space and Left Shift
 * Camera Rotation: Mouse
 
-If you were to try and use the camera array currently, you will probably notice that the camera array cannot move down. That is because the input for moving down is not set in the project settings. To set up this control, go to ```Edit > Project Settings```
+---
+
+**Ensuring Proper Camera Setup**
+
+Controls:
+
+If you are using the provided camera array and you were to try and use it currently, you will probably notice that the camera array cannot move down. That is because the input for moving down is not set in the project settings. To set up this control, go to ```Edit > Project Settings```
 
 ![Project Settings](images/projectsettings.png)
 
@@ -69,7 +75,32 @@ Within the Input Manager tab, expand the Axes dropdown and find the Jump axis.
 
 ![Jump Axis](images/jumpaxis.png)
 
-Within the Jump axis, you will need to set the ```Negative Button``` to be ```Left Shift```.
+Within the Jump axis, you will need to set the ```Negative Button``` to be ```left shift``` (lower case is important here).
 
 ![Set Negative Button](images/negativebutton.png)
 
+Display Resolution:
+
+In your game view, please ensure that the aspect ratio for Display 1 is set to the custom ```VisStudio``` resolution. If you have not set up this custom resolution, please follow the previous unit instructions to do so.
+
+![Gave View Resolution](images/finalaspectratio.png)
+
+Field of View:
+
+Once you have checked that Display 1 has the correct resolution, you should check to make sure the FOV of each of the cameras is set to 45. To do this, expand the ```Camera Array``` object in your scene and select all 8 cameras.
+
+![Select the Eight Cameras](images/selectcameras.png)
+
+In the inspector, find the ```Camera``` component and expand the ```Projection``` tab. Here you will see a slider for the FOV. Make sure that this value is set to 45.
+
+![Change FOV if needed to 45](images/preojectionfov.png)
+
+Clipping Planes:
+
+While you are in the ```Projection``` tab, there are two fields that you will want to tweak for your project, the Clipping Planes.
+
+1. Near: The near plane is the internal distance from the center of the array where the camera can see. Anything between the character and the near plane will not be seen in the game. **If you change the radius of the Character Controller, you will need to change the near plane so that the entire interior of the camera array fits within the radius of the Character Controller.** This is to ensure that you cannot see through anything at the corners of the camera array. See reference image below for visual clarification.
+
+![Near Plane Within Radius](images/nearplane.png)
+
+2. Far: The far plane is the external distance from the center of the array where the camera can see. Anything beyond the far plane will not be seen by the camera until you move. You may want to change the far plane for the cameras if your scene is exceptionally large or small.

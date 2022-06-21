@@ -15,7 +15,9 @@ First and foremost, you are going to need a Unity project to use the camera in. 
 
 Below you will find the link to a github repo with the camera packages. You will want to download the package file named ```3DCamera.unitypackage```.
 
-* [3D Camera Package Download](https://github.com/Elliott-Schultz/VisStudioTesting/tree/main/Assets/Packages)
+* [3D Camera Package Download](https://github.com/Elliott-Schultz/VisStudioTesting/blob/main/Assets/Packages/3DCamera.unitypackage)
+
+![Download Camera](images/downloadcamera.png)
 
 ---
 

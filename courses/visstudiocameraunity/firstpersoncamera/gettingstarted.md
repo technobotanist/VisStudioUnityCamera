@@ -54,3 +54,7 @@ Keep the selection of Fixed Resolution and in the fields below, set the width to
 Save the resolution and make sure that it is the one selected from the dropdown.
 
 ![Save custom aspect ratio](images/saved.png)
+
+In your game view, the top bar should now look like this.
+
+![Final result](images/finalaspectratio.png)

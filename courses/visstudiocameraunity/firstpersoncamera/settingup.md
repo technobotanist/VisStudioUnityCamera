@@ -45,17 +45,17 @@ If you will be using the camera controls that are provided, here is a list of th
 ![Inspector](images/inspector.png)
 
 Character Controller
-* Radius: This is the radius of your player. You can change this to change how far away from the player collisions will take place. (Please keep in mind that any change in radius will also require a change in the near distance of all the cameras in the array which will be described later)
+* ```Radius```: This is the radius of your player. You can change this to change how far away from the player collisions will take place. (Please keep in mind that any change in radius will also require a change in the near distance of all the cameras in the array which will be described later in the ```Clipping Planes``` sections)
 
 Camera Array Controller
-* Walking Speed: The horizontal speed of the camera controller.
-* Look Speed: The speed at which the camera array will rotate when moving the mouse left and right.
-* Vertical Speed: The vertical speed of the camera controller.
+* ```Walking Speed```: The horizontal speed of the camera controller.
+* ```Look Speed```: The speed at which the camera array will rotate when moving the mouse left and right.
+* ```Vertical Speed```: The vertical speed of the camera controller.
 
 The current controls of the camera array are as follows:
-* Horizontal Movement: WASD
-* Vertical Movent: Space and Left Shift
-* Camera Rotation: Mouse
+* ```Horizontal Movement```: WASD
+* ```Vertical Movent```: Space and Left Shift
+* ```Camera Rotation```: Mouse
 
 ---
 
@@ -99,7 +99,21 @@ Clipping Planes:
 
 While you are in the ```Projection``` tab, there are two fields that you will want to tweak for your project, the Clipping Planes.
 
-1. Near: The near plane is the internal distance from the center of the array where the camera can see. Anything between the character and the near plane will not be seen in the game. **If you change the radius of the Character Controller, you will need to change the near plane so that the entire interior of the camera array fits within the radius of the Character Controller.** This is to ensure that you cannot see through anything at the corners of the camera array. See reference image below for visual clarification.
-2. Far: The far plane is the external distance from the center of the array where the camera can see. Anything beyond the far plane will not be seen by the camera until you move. You may want to change the far plane for the cameras if your scene is exceptionally large or small.
+1. ```Near```: The near plane is the internal distance from the center of the array where the camera can see. Anything between the character and the near plane will not be seen in the game. **If you change the radius of the Character Controller, you will need to change the near plane so that the entire interior of the camera array fits within the radius of the Character Controller.** This is to ensure that you cannot see through anything at the corners of the camera array. See reference image below for visual clarification.
+2. ```Far```: The far plane is the external distance from the center of the array where the camera can see. Anything beyond the far plane will not be seen by the camera until you move. You may want to change the far plane for the cameras if your scene is exceptionally large or small.
 
 ![Near Plane Within Radius](images/nearplane.png)
+
+UI:
+
+When working with UI for the Visualization Studio in Unity, each Canvas that you create will need to be told to use the correct screen resolution. To do this, select your UI Canvas from the Hierarchy and then in the inspector, find and expand the ```Canvas Scalar``` component. Change the ```UI Scale Mode``` to be ```Fit to Screen``` and change the ```Reference Resolution``` to be 15360x1080.
+
+![Canvas Scalar](images/CanvasScalar.png)
+
+---
+
+**Final Words**
+
+Once you have ensured that the camera is configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project within the Visualizaiton Studio. (Please note that you will not be able to see how your project looks in the Visualization Studio unless you build and run the project in the space or you use the 3D Emulator. Instructions for that are part of another course.).
+
+In order to schedule time to test your project within the Visualization Studio, please follow the instructions here (```Insert link here```).

@@ -13,9 +13,9 @@ First and foremost, you are going to need a Unity project to use the camera in. 
 
 **Download the 3D camera package**
 
-Below you will find the link to a github repo with the camera packages. You will want to download the package titled (insert title here).
+Below you will find the link to a github repo with the camera packages. You will want to download the package titled (```insert title here```).
 
-* (Provide link here)
+* (```Provide link here```)
 
 ---
 

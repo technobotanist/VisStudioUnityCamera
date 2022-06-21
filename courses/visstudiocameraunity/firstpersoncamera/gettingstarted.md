@@ -33,7 +33,7 @@ In order for the camera system to function properly, you are going to need to se
 
 To set up a custom resolution, you will need to go to the game view screen in the Unity Editor.
 
-![Switch to game view](courses\visstudiocameraunity\images\firstpersoncameraimages\gettingstarted\gameview.png)
+![Switch to game view](https://github.com/JaydenSansom/VisStudioUnityCamera/blob/main/courses/visstudiocameraunity/images/firstpersoncameraimages/gettingstarted/gameview.png)
 
 Next to the dropdown labeled Display 1, you will find another dropdown with the aspect ratios.
 

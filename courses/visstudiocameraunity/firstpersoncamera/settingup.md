@@ -5,7 +5,7 @@ course: "visstudiocameraunity"
 unit: 1
 ---
 
-**Importing the camera**
+## Importing the camera
 
 Please ensure that you have followed the steps from the previous unit as this unit is a direct continuation from the material covered there.
 
@@ -23,7 +23,7 @@ Once the package has been imported, you can find the camera by either finding it
 
 ---
 
-**Putting the Camera into Your Scene**
+## Putting the Camera into Your Scene
 
 Once you have found the location of the camera array, to add the camera to the scene, all you need to do is drag and drop the prefab from the project window into the scene.
 
@@ -31,9 +31,9 @@ Once you have found the location of the camera array, to add the camera to the s
 
 If you already have a main camera in your scene, you will need to remove it to allow the camera array to act as the default camera.
 
-**Camera Controls**
+### Camera Controls
 
-Currently, the camera array is being controlled via a ```Character Controller``` and a script called ```CameraArrayController.cs```. If you would prefer to setup your own camera controls, then you are free to do so by either editing the given scripts or by starting from scratch. 
+Currently, the camera array is being controlled via a ```Character Controller``` and a script called ```CameraArrayController.cs```. If you would prefer to setup your own camera controls, then you are free to do so by either editing the given scripts or by starting from scratch.
 
 Before editing the camera controls, please keep a few things in mind:
 
@@ -45,23 +45,26 @@ If you will be using the camera controls that are provided, here is a list of th
 ![Inspector](images/inspector.png)
 
 Character Controller
+
 * ```Radius```: This is the radius of your player. You can change this to change how far away from the player collisions will take place. (Please keep in mind that any change in radius will also require a change in the near distance of all the cameras in the array which will be described later in the ```Clipping Planes``` sections)
 
 Camera Array Controller
+
 * ```Walking Speed```: The horizontal speed of the camera controller.
 * ```Look Speed```: The speed at which the camera array will rotate when moving the mouse left and right.
 * ```Vertical Speed```: The vertical speed of the camera controller.
 
 The current controls of the camera array are as follows:
+
 * ```Horizontal Movement```: WASD
 * ```Vertical Movent```: Space and Left Shift
 * ```Camera Rotation```: Mouse
 
 ---
 
-**Ensuring Proper Camera Setup**
+## Ensuring Proper Camera Setup
 
-Controls:
+### Controls
 
 If you are using the provided camera array and you were to try and use it currently, you will probably notice that the camera array cannot move down. That is because the input for moving down is not set in the project settings. To set up this control, go to ```Edit > Project Settings```
 
@@ -79,13 +82,13 @@ Within the Jump axis, you will need to set the ```Negative Button``` to be ```le
 
 ![Set Negative Button](images/negativebutton.png)
 
-Display Resolution:
+### Display Resolution
 
 In your game view, please ensure that the aspect ratio for Display 1 is set to the custom ```VisStudio``` resolution. If you have not set up this custom resolution, please follow the previous unit instructions to do so.
 
 ![Gave View Resolution](images/finalaspectratio.png)
 
-Field of View:
+### Field of View
 
 Once you have checked that Display 1 has the correct resolution, you should check to make sure the FOV of each of the cameras is set to 45. To do this, expand the ```Camera Array``` object in your scene and select all 8 cameras.
 
@@ -95,7 +98,7 @@ In the inspector, find the ```Camera``` component and expand the ```Projection``
 
 ![Change FOV if needed to 45](images/preojectionfov.png)
 
-Clipping Planes:
+### Clipping Planes
 
 While you are in the ```Projection``` tab, there are two fields that you may want to tweak for your project, the Clipping Planes.
 
@@ -104,7 +107,7 @@ While you are in the ```Projection``` tab, there are two fields that you may wan
 
 ![Near Plane Within Radius](images/nearplane.png)
 
-UI:
+### UI
 
 When working with UI for the Visualization Studio in Unity, each Canvas that you create will need to be told to use the correct screen resolution. To do this, select your UI Canvas from the Hierarchy and then in the inspector, find and expand the ```Canvas Scalar``` component. Change the ```UI Scale Mode``` to be ```Fit to Screen``` and change the ```Reference Resolution``` to be 15360x1080.
 
@@ -112,7 +115,7 @@ When working with UI for the Visualization Studio in Unity, each Canvas that you
 
 ---
 
-**Final Words**
+## Final Words
 
 Once you have ensured that the camera is configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project within the Visualizaiton Studio. (Please note that you will not be able to see how your project looks in the Visualization Studio unless you build and run the project in the space or you use the 3D Emulator. Instructions for that are part of another course.).
 

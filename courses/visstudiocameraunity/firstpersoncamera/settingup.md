@@ -117,6 +117,6 @@ When working with UI for the Visualization Studio in Unity, each Canvas that you
 
 ## Final Words
 
-Once you have ensured that the camera is configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project within the Visualizaiton Studio. (Please note that you will not be able to see how your project looks in the Visualization Studio unless you build and run the project in the space or you use the 3D Emulator. Instructions for that are part of another course.).
+Once you have ensured that the camera is configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project within the Visualizaiton Studio. (Please note that you will not be able to see how your project looks in the Visualization Studio unless you build and run the project in the space or you use the 3D Emulator. Instructions for that are part of another course).
 
 In order to schedule time to test your project within the Visualization Studio, please follow the instructions here (```Insert link here```).

@@ -18,4 +18,4 @@ Please note that this is not an introduction to Unity. To follow along with this
 
 ### Camera Options
 
-There are two camera system options available, one for a 3D environment and the other for a 2D environment. Select the option below “Select Camera” that best suits your purposes and follow the instructions given within.
+There are two camera system options available, one for a 3D environment and the other for a 2D environment. There is also an emulator that can be used to test to see how a project will look without having to be in the Visualization Studio. Select the option below “Select Camera” that best suits your purposes and follow the instructions given within.

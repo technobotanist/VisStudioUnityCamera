@@ -25,7 +25,13 @@ When working with UI for the Visualization Studio in Unity, each Canvas that you
 
 ---
 
-## Final Words
+### Motion Sickness
+
+Please keep motion sickness in mind. The Visualization Studio is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
+
+---
+
+### Final Words
 
 Once you have ensured that your scene is configured properly for 2D in the Visualization Studio, then your 2D project should be ready to be used within the Visualizaiton Studio. (Please note that you will not be able to see how your project looks in the Visualization Studio unless you build and run the project in the space).
 

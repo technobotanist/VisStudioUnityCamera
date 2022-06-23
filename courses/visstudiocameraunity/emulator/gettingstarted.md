@@ -21,7 +21,7 @@ Before anything else, you are going to need a new or existing Unity 3D project t
 
 Below you will find the link to a github repo with the emulator package. You will want to download the package file named ```3DEmulator.unitypackage```.
 
-* [3D Camera Package Download](https://github.com/Elliott-Schultz/VisStudioTesting/blob/main/Assets/Packages/3DEmulator.unitypackage)
+* [3D Emulator Package Download](https://github.com/Elliott-Schultz/VisStudioTesting/blob/main/Assets/Packages/3DEmulator.unitypackage)
 
 ---
 

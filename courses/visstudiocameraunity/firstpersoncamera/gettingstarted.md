@@ -5,9 +5,15 @@ course: "visstudiocameraunity"
 unit: 1
 ---
 
+## Welcome to the 3D Visualization Studio Unity Camera
+
+When setting up your Unity 3D project meant for the Visualization Studio you will need to utilize a pre-built First-Person camera created for use in the space. The camera has defined features that can be altered for optimization within your specific project, however, the instructions within this section are for general use and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact ---@ncsu.edu.
+
+---
+
 ## Setting up your project
 
-First and foremost, you are going to need a 3D Unity project to use the camera in. The camera system was developed for Unity Version 2021.3.4f1. If you already have a project created and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version of Unity. We have done our best to keep the instructions general, but images and videos may not reflect your Unity setup.
+Before anything else, you are going to need a new or existing Unity project to put the camera into. The camera system was developed for Unity Version 2021.3.4f1 and if you already have a project created on a different version and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ and this instruction set does its best to keep the instructions general, but images and videos may not reflect your exact Unity setup.
 
 ---
 

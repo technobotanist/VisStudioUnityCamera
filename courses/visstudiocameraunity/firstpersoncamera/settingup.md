@@ -78,7 +78,7 @@ Within the Input Manager tab, expand the Axes dropdown and find the Jump axis.
 
 ![Jump Axis](images/jumpaxis.png)
 
-Within the Jump axis, you will need to set the ```Negative Button``` to be ```left shift``` (lower case is important here).
+Within the Jump axis, you will need to set the ```Negative Button``` to be whatever you choose. For our purposes, we will be using ```left shift``` (lower case is important here).
 
 ![Set Negative Button](images/negativebutton.png)
 

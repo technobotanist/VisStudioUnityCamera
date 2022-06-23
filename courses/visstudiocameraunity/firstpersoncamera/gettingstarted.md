@@ -13,7 +13,7 @@ When setting up your Unity 3D project meant for the Visualization Studio you wil
 
 ## Setting up your project
 
-Before anything else, you are going to need a new or existing Unity project to put the camera into. The camera system was developed for Unity Version 2021.3.4f1 and if you already have a project created on a different version and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ and this instruction set does its best to keep the instructions general, but images and videos may not reflect your exact Unity setup.
+Before anything else, you are going to need a new or existing Unity project to put the camera into. The camera system was developed for Unity Version 2021.3.4f1 and if you already have a project created on a different version and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version and this instruction set does its best to keep the instructions general, but images and videos may not reflect your exact Unity setup.
 
 ---
 
@@ -27,7 +27,7 @@ Below you will find the link to a github repo with the camera packages. You will
 
 ## Switching to the Universal Render Pipeline
 
-The ```Universal Render Pipeline``` was utilized to make the camera function properly along the projectors within the Visualization Studio. The Universal Render Pipeline can be installed through Unity's ```Package Manager```.
+The ```Universal Render Pipeline``` was utilized to make the camera function properly on the projectors within the Visualization Studio. The Universal Render Pipeline can be installed through Unity's ```Package Manager```.
 
 To configure your project to use Universal Render Pipeline we recommend that you follow the instructions found [here](https://www.tomstephensondeveloper.co.uk/post/unity-universal-render-pipeline-urp-initial-setup) as the instructions walk through every aspect of the configuration process.
 

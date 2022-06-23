@@ -5,17 +5,23 @@ course: "visstudiocameraunity"
 unit: 2
 ---
 
+## Welcome to the 2D Visualization Studio Unity Camera
+
+When setting up your Unity 2D project meant for the Visualization Studio you will need to follow the following specification instructions to create a 2D camera for use in the space. The camera can be altered for optimization within your specific project, however, the instructions within this section are for general use and creation and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact ---@ncsu.edu.
+
+---
+
 ## Setting up your project
 
-First and foremost, you are going to need a 2D Unity project. These instructions are for Unity Version 2021.3.4f1. If you already have a project created and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version of Unity. We have done our best to keep the instructions general, but images and videos may not reflect your Unity setup.
+Before anything else, you are going to need a new or existing Unity project to edit the camera in. The camera system was developed for Unity Version 2021.3.4f1 and if you already have a project created on a different version and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version and this instruction set does its best to keep the instructions general, but images and videos may not reflect your exact Unity setup.
 
 ---
 
 ## Custom Resolution
 
-In order for the camera to function properly in the Visualization Studio, you are going to need to set up a custom resolution for your display. While the Visualization Studio is an array of 8 projectors, what is displayed is considered one screen with a resolution of 15360x1080.
+In order for the camera system to function properly, you are going to need to set up a custom resolution for your display within the Game View section of the Unity Editor. While the Visualization Studio is an array of 8 projectors, what is being displayed is considered only one display, rather than eight, with a resolution of 15360 x 1080. Think of it as all eight views being stitched together into one long string that will wrap around the space.
 
-To set up a custom resolution, you will need to go to the game view screen in the Unity Editor.
+To set up a custom resolution, you will first need to go to the Game View screen in the Unity Editor.
 
 ![Switch to game view](images/gameview.png)
 
@@ -23,7 +29,7 @@ Next to the dropdown labeled Display 1, you will find another dropdown with the 
 
 ![Open aspect ratios](images/aspectratio.png)
 
-At the bottom of that dropdown, there is an option to create a custom resolution profile. Click on that.
+At the bottom of that dropdown, click the option to create a custom resolution profile.
 
 ![Click to add custom aspect ratio](images/dropdown.png)
 
@@ -35,7 +41,7 @@ Keep the selection of Fixed Resolution and in the fields below, set the width to
 
 ![Set values of custom aspect ratio](images/setresolution.png)
 
-Save the resolution and make sure that it is the one selected from the dropdown.
+Save the resolution and make sure that it is now the one selected from the dropdown.
 
 ![Save custom aspect ratio](images/saved.png)
 
@@ -45,4 +51,4 @@ In your game view, the top bar should now look like this.
 
 ---
 
-Now that the custom resolution is done, you are basically all set to develop 2D scenes for the Visualization Studio. With that being said, we recommend that you continue through the unit for some helpful tips and considerations that will benefit your development process and your final product.
+Now that the custom resolution is created and selected, you are all set to develop 2D scenes for the Visualization Studio. With that being said, we recommend that you continue through the unit for some helpful tips and considerations that will benefit your development process and your final product.

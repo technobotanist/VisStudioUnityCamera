@@ -21,3 +21,11 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
           url: "twodimcamera/gettingstarted"
         - title: "Making Scenes for the Space"
           url: "twodimcamera/makingscenes"
+    3:
+      title: "3D Visualization Studio Emulator"
+      home: "emulator/gettingstarted"
+      pages:
+        - title: "Getting Started with the Visualization Studio Emulator"
+          url: "emulator/gettingstarted"
+        - title: "Setting Up the Emulator in Your Scene"
+          url: "emulator/settingup"

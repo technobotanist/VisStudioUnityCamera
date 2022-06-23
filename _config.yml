@@ -6,7 +6,7 @@ plugins:
   - jekyll-feed
 
 # Site information. Change the information after the first semicolon (:) and before the pound sign (#)
-title: "Visualization Studio Courses"
+title: "Visualization Studio Cameras for Unity"
 style: ncstate # Site theme - Current values are "ncstate" and "generic"
 nav_showcourses: 1 # Set to 0 to show a "Courses" menu with a link to each course. Set to 1 to show each course in the navbar with a link to the units as a dropdown
 

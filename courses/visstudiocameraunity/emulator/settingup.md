@@ -31,7 +31,11 @@ Once you have found the location of the emulator within your project assets, dra
 
 If you already have a main camera in your scene, you will need to remove it to allow the cameras within the emulator to act as the primary cameras.
 
-After the emulator has been placed in your scene, you will want to move around and change some of the components. Firstly, the directional lighting in the emulator does not interact with the VisStudio, so you will want to either delete your previous directional lighting, or change it to not interact with the VisStudio. This allows for a more accurate lighting profile within the emulator.
+After the emulator has been placed in your scene, you will want to move around and change some of the components.
+
+![Emulator Components](images/emulatorcomponents.png)
+
+Firstly, the directional lighting in the emulator does not interact with the VisStudio, so you will want to either delete your previous directional lighting, or change it to not interact with the VisStudio. This allows for a more accurate lighting profile within the emulator.
 
 Next up, you will want to move the VisStudio away from where the camera array will be. We recommend that you move the VisStudio far down to keep it out of the way.
 

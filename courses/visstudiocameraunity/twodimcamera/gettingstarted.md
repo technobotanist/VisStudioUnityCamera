@@ -13,7 +13,7 @@ When setting up your Unity 2D project meant for the Visualization Studio you wil
 
 ## Setting up your project
 
-Before anything else, you are going to need a new or existing Unity project to edit the camera in. The camera system was developed for Unity Version 2021.3.4f1 and if you already have a project created on a different version and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version and this instruction set does its best to keep the instructions general, but images and videos may not reflect your exact Unity setup.
+Before anything else, you are going to need a new or existing Unity 2D project to edit the camera in. The camera system was developed for Unity Version 2021.3.4f1 and if you already have a project created on a different version and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version and this instruction set does its best to keep the instructions general, but images and videos may not reflect your exact Unity setup.
 
 ---
 

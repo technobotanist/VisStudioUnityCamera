@@ -1,21 +1,21 @@
---
-layout: unitlist
-title: Visualization Studio Cameras for Unity
-course: visstudiocameraunity
 ---
-
-# Visualization Studio Cameras for the Unity Environment
-
-This course is designed to be an introduction to using a specialized camera system made for the Unity development environment for use in the [Visualization Studio](https://www.lib.ncsu.edu/spaces/visualization-studio) at D. H. Hill Jr. Library at North Carolina State University. 
-
+layout: courselist
 ---
+# Git Courseware - an Open Source approach to Textbook Publishing
 
-## New to Unity?
+Git Courseware is a [Jekyll Theme](https://jekyllrb.com) specifically designed for the creation and publishing of [OER Textbooks](https://www.lib.ncsu.edu/do/open-education). The theme has custom layouts and navigation design to allow course creators to create fully online textbooks with little or no code required while leveraging all of the features of GitHub's collaborative development process and version control.
 
-Please note that this is not an introduction to Unity. To follow along with this course, we assume that you already have a fundamental understanding of using the Unity environment. If you are new to Unity, please consider looking at [Unity Learn](https://learn.unity.com/) and follow the [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials) as it contains guided learning experiences that will help you understand the basics of Unity. Referencing the direct [Unity Documentation](https://docs.unity3d.com/Manual/index.html) can also provide further information and assistance if needed. 
+This project was originally created by [Dr. Mark Samberg](https://go.ncsu.edu/mark) for use in his [online courses](https://mjsamberg.github.io/courses). The project was expanded thanks to support from the [NC State University Alt-Textbook Project](https://www.lib.ncsu.edu/alttextbook).
 
----
+## Project Features
+This project specifically includes the following features for course developers:
+1. A home page template enabling users to select a course to view
+1. A course homepage with selectable units and in-unit navigation automatically generated
+1. YouTube embedding and included figures with no code required
+1. Support for course announcements and course-level persistent alerts
+1. A themeable design allowing for branding for your institution
 
-## Camera Options
-
-There are two camera system options available, one for a 3D environment and the other for a 2D environment. Select the option below “Select Camera” that best suits your purposes and follow the instructions given within.
+## About this site
+This site serves two purposes: 
+1. The [GitHub Repository](https://www.github.com/mjsamberg/git-courseware-template/) is set up as a template that will allow you to get started with your own Git Courseware textbook.
+1. The site is set up with a sample course that contains all of the documentation for Git Courseware. A course for developers is coming soon. 

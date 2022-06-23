@@ -7,7 +7,7 @@ unit: 3
 
 ## Importing the Emulator
 
-Please ensure that you have followed the steps from the previous "Getting Started" unit as this unit is a direct continuation of that material and requires that the camera package is downloaded and certain parameters are set in the Unity Editor.
+Please ensure that you have followed the steps from the previous "Getting Started" unit as this unit is a direct continuation of that material and requires that the camera package and emulator are downloaded and certain parameters are set in the Unity Editor.
 
 With the emulator package downloaded, you will now need to import it into your Unity project. To do so, go into the project window and go into your assets folder. Once there, right click and select ```Import Package > Custom Package```. Then, find the download location of the camera package in the File Explorer(Windows) or Finder(Mac) and select it.
 
@@ -37,7 +37,7 @@ After the emulator has been placed in your scene, you will want to move around a
 
 Firstly, the directional lighting in the emulator does not interact with the VisStudio, so you will want to either delete your previous directional lighting, or change it to not interact with the VisStudio. This allows for a more accurate lighting profile within the emulator.
 
-Next up, you will want to move the VisStudio away from where the camera array will be. We recommend that you move the VisStudio far down to keep it out of the way.
+Next up, you will want to move the VisStudio away from where the camera array will be. We recommend that you move the VisStudio far down to keep it out of the way and out of view.
 
 Finally, you will want to move the Camera Array to where you want it in the scene.
 
@@ -113,6 +113,6 @@ For information regarding setting up the UI for the Visualization Studio, you ca
 
 ## Final Words
 
-Once you have ensured that the camera is configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project within the Visualizaiton Studio. Please note that you will not be able to see how your project looks in the Visualization Studio unless you build and run the project in the space or you use the 3D Emulator (Instructions for the emulator are part of another section). Play mode will only show a reduced size and will not wrap around the entire screen, even if the ```Maximize on Play``` option is selected.
+Once you have ensured that the camera and emulator are configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project to view an emulated Visualizaiton Studio. Please note that you will have to delete the emulator and follow the [3D Camera Tutorial](visstudiocameraunity/firstpersoncamera/gettingstarted) to replace the camera system once you wish to put it in the actual Visualization studio. 
 
 In order to schedule time to test your project within the Visualization Studio, please follow the instructions here: (```Insert link here```).

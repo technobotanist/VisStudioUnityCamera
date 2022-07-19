@@ -17,6 +17,12 @@ Before anything else, you are going to need a new or existing Unity 3D project t
 
 ---
 
+## Install ProBuilder
+
+In order for the emulator to load the textures of the Visualization Studio correctly, you will need to install ProBuilder as it was used to build the emulator. You can find a tutorial for how to install ProBuilder [here](https://docs.unity3d.com/Packages/com.unity.probuilder@4.0/manual/installing.html).
+
+---
+
 ## Download the 3D camera package
 
 Below you will find the link to a github repo with the emulator package. You will want to download the package file named ```3DEmulator.unitypackage```.

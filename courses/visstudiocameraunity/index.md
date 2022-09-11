@@ -1,10 +1,10 @@
 ---
 layout: unitlist
-title: Visualization Studio Cameras for Unity
+title: Visualization Studio Development Kit
 course: visstudiocameraunity
 ---
 
-## Visualization Studio Cameras for the Unity Environment
+## Visualization Studio Development Kit
 
 This course is designed to be an introduction to using a specialized camera system made for the Unity development environment for use in the [Visualization Studio](https://www.lib.ncsu.edu/spaces/visualization-studio) at D. H. Hill Jr. Library at North Carolina State University.
 

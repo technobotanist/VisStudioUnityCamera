@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Getting Started with the Visualization Studio Emulator"
+title: "Getting Started with the VisSDK Emulator"
 course: "visstudiocameraunity"
 unit: 3
 ---
 
-## Welcome to the Visualization Studio 3D Emulator
+## Welcome to the VisSDK Emulator
 
 When setting up your Unity 3D project meant for the Visualization Studio you may want to use an emulator to help visualize what your project will look like within the space without actually being in the room. The emulator has an altered version of the 3D camera system to allow it to project what it sees onto an in-editor replica of the Visualization Studio. The camera has defined features that can be altered for optimization within your specific project, however, the instructions within this section are for general use and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact ---@ncsu.edu.
 

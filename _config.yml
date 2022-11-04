@@ -13,11 +13,11 @@ nav_showcourses: 1 # Set to 0 to show a "Courses" menu with a link to each cours
 #College/Org Information
 org_name: University Libraries # Name of the organization. For the ncstate theme, this should be the college
 org_url: https://www.lib.ncsu.edu/ # URL of the organization
-unit_name_long: "Department ---" # Name of the department or unit within the organization
+unit_name_long: "University Libraries " # Name of the department or unit within the organization
 unit_url: https://www.lib.ncsu.edu/ # URL of the departmental unit
-address: "Address<br/>Raleigh, NC 27606" # Physical Address
-phone: "Phone" # Change to your phone number
-email: "Email" # Change to your email address 
+address: "D. H. Hill Jr. Library<br/>2 Broughton Drive<br/>Campus Box 7111<br/>Raleigh, NC 27695-7111" # Physical Address
+# phone: "" # Change to your phone number
+email: "library_hightechspaces@ncsu.edu" # Change to your email address 
 
 #Social media links
 #github_url: "https://github.com/mjsamberg/git-courseware-template" #URL of the GitHub Repository for people to fork

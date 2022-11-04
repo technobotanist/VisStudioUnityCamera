@@ -27,7 +27,7 @@ In order for the emulator to load the textures of the Visualization Studio corre
 
 Below you will find the link to a github repo with the emulator package. You will want to download the package file named ```3DEmulator.unitypackage```.
 
-* [3D Emulator Package Download](go.ncsu.edu/vissdkunitygithub_emulator)
+* [3D Emulator Package Download](https://go.ncsu.edu/vissdkunitygithub_emulator)
 
 ---
 

@@ -4,7 +4,7 @@ title: Visualization Studio Unreal Engine Development Kit
 course: visstudiocameraunreal
 ---
 
-## Visualization Studio Development Kit
+## Visualization Studio Unreal Engine Development Kit
 
 This course is designed to be an introduction to using a specialized camera system made for the Unreal Engine Editor for use in the [Visualization Studio](https://www.lib.ncsu.edu/spaces/visualization-studio) at D. H. Hill Jr. Library at North Carolina State University.
 

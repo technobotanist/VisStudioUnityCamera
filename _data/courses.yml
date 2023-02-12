@@ -29,3 +29,18 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
           url: "emulator/gettingstarted"
         - title: "Setting Up the Emulator in Your Scene"
           url: "emulator/settingup"
+visstudiocameraunreal: # Course slug - a unique name for the course that does not contain spaces or special characters20
+  title: "Visualization Studio Unreal Engine Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
+  shorttitle: "Sections" # Short title for each course. Displays in the navigation bar.
+  homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
+  announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified
+  units_title: "Section" # Label for "Unit" (singular). Defaults to "unit" if not specified.
+  units: #Do not change.
+    1: #Unit number
+      title: "Visualization Studio Cameras for Unreal Engine" #Title for the unit
+      home: "introducingunreal/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
+      pages: # List of all pages within the unit. Add or delete as needed.
+        - title: "Setting up an Unreal Engine Project" #Page Title
+          url: "introducingunreal/gettingstarted" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+        - title: "Additional Information (Optional)"
+          url: "introducingunreal/additional-information" 

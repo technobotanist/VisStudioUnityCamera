@@ -1,6 +1,6 @@
 visstudiocameraunity: # Course slug - a unique name for the course that does not contain spaces or special characters20
-  title: "Visualization Studio Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
-  shorttitle: "Sections" # Short title for each course. Displays in the navigation bar.
+  title: "Visualization Studio Unity Engine Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
+  shorttitle: "Unity Sections" # Short title for each course. Displays in the navigation bar.
   homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
   announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified
   units_title: "Camera" # Label for "Unit" (singular). Defaults to "unit" if not specified.
@@ -31,7 +31,7 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
           url: "emulator/settingup"
 visstudiocameraunreal: # Course slug - a unique name for the course that does not contain spaces or special characters20
   title: "Visualization Studio Unreal Engine Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
-  shorttitle: "Sections" # Short title for each course. Displays in the navigation bar.
+  shorttitle: "Unreal Sections" # Short title for each course. Displays in the navigation bar.
   homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
   announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified
   units_title: "Section" # Label for "Unit" (singular). Defaults to "unit" if not specified.

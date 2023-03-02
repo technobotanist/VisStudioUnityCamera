@@ -9,10 +9,10 @@ layout: default
     <nav class="list-group" aria-label="Course Navigation">
         {% for course in site.data.courses %}
             {% assign element = course[0] %}
-            {% if site.data.courses[element].title contains 'unity' %}
+            {% if 'unity' in site.data.courses[element].title contains %}
             <img src= "assets/unity_logo.png" alt="Unity Engine Logo" width="48" height="48">
             {% else %}
-            <img src= "assets/unreal_logo.png" alt="Unity Engine Logo" width="48" height="48">
+            <img src= "assets/unreal_logo.png" alt="Unreal Engine Logo" width="48" height="48">
             {% endif %}
             <a href="{{ '/courses/' | append: element | append: '/' | append: site.data.courses[element].homepage | append: '.html' | relative_url }} " class="list-group-item list-group-item-action lead">{{ site.data.courses[element].title }}</a>
         {% endfor %}

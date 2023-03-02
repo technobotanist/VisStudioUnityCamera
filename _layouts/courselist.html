@@ -9,7 +9,7 @@ layout: default
     <nav class="list-group" aria-label="Course Navigation">
         {% for course in site.data.courses %}
             {% assign element = course[0] %}
-            <img src= "_layouts/unity_logo.png">
+            <img src= "assets/unity_logo.png">
             <a href="{{ '/courses/' | append: element | append: '/' | append: site.data.courses[element].homepage | append: '.html' | relative_url }} " class="list-group-item list-group-item-action lead">{{ site.data.courses[element].title }}</a>
         {% endfor %}
     </nav>

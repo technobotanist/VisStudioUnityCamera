@@ -16,11 +16,10 @@ element.innerHTML = "New Heading";
 <script>
     function show(){
         const elem = document.getElementById("embed");
-  		elem.innerHTML = {% include youtube.html id="ewRKuI49vPQ?t=60" title="Visualization Studio Unreal Engine Setup Walkthrough" %};
+  		elem.innerHTML = "{% include youtube.html id='ewRKuI49vPQ?t=60' title='Visualization Studio Unreal Engine Setup Walkthrough' %}";
         
         
     }
-    document.getElementById("embed").innerHTML = linktext;
 </script>
 
 

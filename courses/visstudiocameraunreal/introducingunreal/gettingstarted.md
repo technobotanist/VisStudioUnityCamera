@@ -4,7 +4,7 @@ title: "Setting Up a Project for the Visualization Studio"
 course: "visstudiocameraunreal"
 unit: 1
 ---
-{% include youtube.html id="ewRKuI49vPQ" title="Visualization Studio Unreal Engine Setup Walkthrough" %}
+<p id=embed>{% include youtube.html id="ewRKuI49vPQ" title="Visualization Studio Unreal Engine Setup Walkthrough" %}</p>
 
 ---
 

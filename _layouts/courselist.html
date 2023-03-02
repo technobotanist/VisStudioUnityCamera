@@ -14,7 +14,7 @@ layout: default
             {% else %}
                 {% assign logo = "assets/unreal_logo.png" %}
             {% endif %}
-            <a href="{{ '/courses/' | append: element | append: '/' | append: site.data.courses[element].homepage | append: '.html' | relative_url }} " class="list-group-item list-group-item-action lead"><img src="{{ logo | append: '  '}}" width="48" height="48">{{ site.data.courses[element].title }}</a>
+            <a href="{{ '/courses/' | append: element | append: '/' | append: site.data.courses[element].homepage | append: '.html' | relative_url }} " class="list-group-item list-group-item-action lead"><img src="{{ logo | append: '  ' }}" width="48" height="48">{{ site.data.courses[element].title }}</a>
         {% endfor %}
     </nav>
 </div>

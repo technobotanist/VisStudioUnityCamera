@@ -1,6 +1,6 @@
 visstudiocameraunity: # Course slug - a unique name for the course that does not contain spaces or special characters20
-  title: "Visualization Studio Unity Engine Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
-  image: /_data/unity_logo.png
+  title: |
+  ![](/_data/unity_logo.png){width=1in} "Visualization Studio Unity Engine Development Kit"
   shorttitle: "Unity Sections" # Short title for each course. Displays in the navigation bar.
   homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
   announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified

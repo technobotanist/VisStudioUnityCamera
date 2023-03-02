@@ -9,7 +9,7 @@ layout: default
     <nav class="list-group" aria-label="Course Navigation">
         {% for course in site.data.courses %}
             {% assign element = course[0] %}
-            {% if 'unity' in site.data.courses[element].title %}
+            {% if site.data.courses[element].title contains 'Unity' %}
             <img src= "assets/unity_logo.png" alt="Unity Engine Logo" width="48" height="48">
             {% else %}
             <img src= "assets/unreal_logo.png" alt="Unreal Engine Logo" width="48" height="48">

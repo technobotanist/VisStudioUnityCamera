@@ -34,7 +34,7 @@ element.innerHTML = "New Heading";
 <div style="height: 500px; overflow: scroll;">
 <h4>Jump To:</h4>
 <p1>
-<a href="#[00:00]"><button id="0" onclick="show()">[00:00]</a><br>
+<a href="#[00:00]" onclick="show()">[00:00]</a><br>
 <a href="#[01:16]">[01:16]</a><br>
 <a href="#[02:18]">[02:18]</a><br>
 <a href="#[02:44]">[02:44]</a><br>

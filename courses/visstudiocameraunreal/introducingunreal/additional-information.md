@@ -106,9 +106,6 @@ For improved legibility, the Execute Console Command nodes, in order, say:
   <li>r.Upscale.Panini.S -0.5</li>
   <li>r.Upscale.Panini.ScreenFit 1.95</li>
 </ul>
-    * r.Upscale.Panini.D 1
-    * r.Upscale.Panini.S -0.5
-    * r.Upscale.Panini.ScreenFit 1.95
 
 ---
 

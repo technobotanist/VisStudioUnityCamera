@@ -23,7 +23,7 @@ unit: 1
 <h4>Jump To:</h4>
 <p1>
 
-<input type="button" onclick="window.location.href='#[00:00]';document.getElementByID('embed').innerHTML.replace('ewRKuI49vPQ','ewRKuI49vPQ?t=125') value='[00:00]'" />
+<input type="button" onclick="window.location.href='#[00:00]';document.getElementByID('embed').innerHTML.replace('ewRKuI49vPQ','ewRKuI49vPQ?start=106') value='[00:00]'" />
 <a href="#[00:00]">[00:00]</a><br>
 <a href="#[01:16]">[01:16]</a><br>
 <a href="#[02:18]">[02:18]</a><br>

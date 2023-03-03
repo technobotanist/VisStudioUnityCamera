@@ -13,7 +13,7 @@ width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthr
 <h4> <a href="codesnippets.html" target="_blank">Code Snippets</a></h4>
 <h4>Jump To:</h4>
 <p1>
-<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=0&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[00:00]').scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'nearest' });" >[00:00]</a>  ||  
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=0&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[00:00]').scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' });" >[00:00]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=76&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[01:16]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[01:16]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=138&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[02:18]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[02:18]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=164&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[02:44]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[02:44]</a>  ||  
@@ -29,7 +29,7 @@ width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthr
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1797&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[29:57]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[29:57]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1840&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[30:40]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[30:40]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1873&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[31:13]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[31:13]</a>  ||  
-<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1915&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[31:55]').scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'nearest' });" >[31:55]</a><br><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1915&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[31:55]').scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' });" >[31:55]</a><br><br>
 </p1>
 ---
 

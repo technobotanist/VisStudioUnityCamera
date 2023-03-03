@@ -4,14 +4,9 @@ title: "Setting Up a Project for the Visualization Studio"
 course: "visstudiocameraunreal"
 unit: 1
 ---
-<script>
-const element = document.getElementById("id01");
-element.innerHTML = "New Heading";
-</script>
 
 
-
-<p id="embed">{% include youtube.html id="ewRKuI49vPQ" title="Visualization Studio Unreal Engine Setup Walkthrough" %}"hello"</p>
+<p id="embed">{% include youtube.html id="ewRKuI49vPQ" title="Visualization Studio Unreal Engine Setup Walkthrough" %}</p>
 
 
 
@@ -27,8 +22,9 @@ element.innerHTML = "New Heading";
 <div style="height: 500px; overflow: scroll;">
 <h4>Jump To:</h4>
 <p1>
-<input type="button" onclick="window.location.href='#[00:00]'" value="[00:00]" />
-<a href="#[00:00]" onclick="show()">[00:00]</a><br>
+{% assign newlink="{% include youtube.html id='ewRKuI49vPQ' title='Visualization Studio Unreal Engine Setup Walkthrough' %}" %}
+<input type="button" onclick="window.location.href='#[00:00]';document.getElementByID('embed').innerHTML = 'newlink' value='[00:00]'" />
+<a href="#[00:00]">[00:00]</a><br>
 <a href="#[01:16]">[01:16]</a><br>
 <a href="#[02:18]">[02:18]</a><br>
 <a href="#[02:44]">[02:44]</a><br>

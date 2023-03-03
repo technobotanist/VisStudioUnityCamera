@@ -22,7 +22,7 @@ unit: 1
 <div style="height: 500px; overflow: scroll;">
 <h4>Jump To:</h4>
 <p1>
-{% assign newlink="{% include youtube.html id='ewRKuI49vPQ' title='Visualization Studio Unreal Engine Setup Walkthrough' %}" %}
+{% assign newlink="{% include youtube.html id='ewRKuI49vPQ?t=125' title='Visualization Studio Unreal Engine Setup Walkthrough' %}" %}
 <input type="button" onclick="window.location.href='#[00:00]';document.getElementByID('embed').innerHTML = 'newlink' value='[00:00]'" />
 <a href="#[00:00]">[00:00]</a><br>
 <a href="#[01:16]">[01:16]</a><br>

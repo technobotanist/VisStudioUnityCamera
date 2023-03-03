@@ -4,13 +4,14 @@ title: "Setting Up a Project for the Visualization Studio"
 course: "visstudiocameraunreal"
 unit: 1
 ---
-<div style="height:600px; overflow:auto;">
+<div style="width: 100%;">
+<div style="height:600px;width:50%; float: left; overflow:auto;">
 <iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed"
-width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay" allowfullscreen="true"></iframe><br>
+width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay" allowfullscreen="true"></iframe>
 
----
+<hr>
 
-#### <a href="codesnippets.html" target="_blank">Code Snippets</a>
+<h4> <a href="codesnippets.html" target="_blank">Code Snippets</a></h4>
 <h4>Jump To:</h4>
 <p1>
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=0&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[00:00]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[00:00]</a>  ||  
@@ -34,7 +35,7 @@ width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthr
 </div>
 ---
 
-<div style="height: 350px; overflow: scroll;">
+<div style="height: 600px; margin-left:50%; overflow: scroll;">
 <p id="[00:00]"><h4>[00:00]</h4>
 
 Begin with a C++ Unreal Project (if using an existing Blueprint-only project, it must first be converted to a C++ project).
@@ -191,4 +192,5 @@ Lastly, open the Project Settings, and change the Default GameMode and Game Inst
 <br><br>
 </p>
 
+</div>
 </div>

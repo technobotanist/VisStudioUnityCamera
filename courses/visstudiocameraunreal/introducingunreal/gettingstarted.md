@@ -6,7 +6,8 @@ unit: 1
 ---
 
 
-<iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed"
+width="100%" height="auto" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay"></iframe>
 
 
 

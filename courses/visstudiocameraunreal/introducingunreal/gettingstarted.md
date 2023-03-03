@@ -4,10 +4,12 @@ title: "Setting Up a Project for the Visualization Studio"
 course: "visstudiocameraunreal"
 unit: 1
 ---
-
+div {
+    scroll-padding-top: 150px;
+}
 
 <iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed"
-width="100%" height="480" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay" allowfullscreen="true"></iframe>
+width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay" allowfullscreen="true"></iframe>
 
 
 

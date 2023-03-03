@@ -17,13 +17,13 @@ width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthr
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=76&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[01:16]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[01:16]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=138&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[02:18]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[02:18]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=164&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[02:44]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[02:44]</a>  ||  
-<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=177&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[02:57]').scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'nearest' });" >[02:57]</a>  ||  
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=177&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[02:57]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[02:57]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=229&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[03:49]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[03:49]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=653&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[10:53]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[10:53]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=689&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[11:29]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[11:29]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=703&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[11:43]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[11:43]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=773&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[12:53]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[12:53]</a>  ||  
-<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=848&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[14:08]').scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'nearest' });" >[14:08]</a>  ||  
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=848&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[14:08]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[14:08]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1109&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[18:29]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[18:29]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1477&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[24:37]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[24:37]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1797&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[29:57]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[29:57]</a>  ||  
@@ -86,7 +86,7 @@ This should be placed in your project’s Content folder. Go there now.
 <br><br>
 </p>
 
-<p id="[02:57]"><h4>[02:57]</h4>
+<h4>[02:57]</h4>
 
 Now to create a few more Blueprint classes.
 <br><br>
@@ -98,7 +98,7 @@ Create another Pawn class, and name it <b>“VizParentPawn”</b>
 <br><br>
 Finally, create a Player Controller class, and name it <b>“VizPlayerController”</b>
 <br><br>
-</p>
+<p id="[02:57]"></p>
 
 <p id="[03:49]"><h4>[03:49]</h4>
 
@@ -146,13 +146,13 @@ Be sure to replace the default code in the Custom node with the code provided.
 <br><br>
 </p>
 
-<p id="[14:08]"><h4>[14:08]</h4>
+<h4>[14:08]</h4>
 
 Open the VizParentPawn Blueprint.
 <br><br>
 <em>*If you do not want movement functionality for your player, all you need for the following section is to follow the setup instructions for Event BeginPlay, and connect a GetActorTransform node to the SpawnActor node’s Spawn Transform pin as seen starting at [16:40]. </em>
 <br><br>
-</p>
+<p id="[14:08]"></p>
 
 <p id="[18:29]"><h4>[18:29]</h4>
 

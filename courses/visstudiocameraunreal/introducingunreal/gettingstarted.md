@@ -28,7 +28,7 @@ unit: 1
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1797&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('top').scrollIntoView(true);document.getElementById('[29:57]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[29:57]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1840&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('top').scrollIntoView(true);document.getElementById('[30:40]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[30:40]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1873&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('top').scrollIntoView(true);document.getElementById('[31:13]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[31:13]</a>  ||  
-<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1915&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('top').scrollIntoView(true);document.getElementById('[31:55]').scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' });" >[31:55]</a><br><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1915&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('top').scrollIntoView(true);document.getElementById('[31:55]').scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'nearest' });" >[31:55]</a><br><br>
 </p1>
 ---
 

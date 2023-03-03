@@ -35,7 +35,7 @@ width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthr
 </div>
 ---
 
-<div style="height: 720px; margin-left:50%; overflow: scroll;">
+<div style="height: 400px; margin-left:50%; float: right; overflow: scroll;">
 <p id="[00:00]"><h4>[00:00]</h4>
 
 Begin with a C++ Unreal Project (if using an existing Blueprint-only project, it must first be converted to a C++ project).

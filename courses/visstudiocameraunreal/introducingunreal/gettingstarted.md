@@ -5,7 +5,7 @@ course: "visstudiocameraunreal"
 unit: 1
 ---
 <div style="width: 100%;">
-<div style="height:720px;width:50%; float: left; overflow:auto;">
+<div style="height:720px;width:80%; float: left; overflow:auto;">
 <iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed"
 width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay" allowfullscreen="true"></iframe>
 

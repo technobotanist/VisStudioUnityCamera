@@ -5,7 +5,7 @@ course: "visstudiocameraunreal"
 unit: 1
 ---
 <div style="width: 100%;">
-<div style="height:600px;width:50%; float: left; overflow:auto;">
+<div style="height:720px;width:60%; float: left; overflow:auto;">
 <iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed"
 width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay" allowfullscreen="true"></iframe>
 
@@ -35,7 +35,7 @@ width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthr
 </div>
 ---
 
-<div style="height: 600px; margin-left:50%; overflow: scroll;">
+<div style="height: 720px; margin-left:60%; overflow: scroll;">
 <p id="[00:00]"><h4>[00:00]</h4>
 
 Begin with a C++ Unreal Project (if using an existing Blueprint-only project, it must first be converted to a C++ project).

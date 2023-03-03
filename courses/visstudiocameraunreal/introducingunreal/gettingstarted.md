@@ -6,11 +6,7 @@ unit: 1
 ---
 
 
-<p id="embed">{% include youtube.html id="ewRKuI49vPQ" title="Visualization Studio Unreal Engine Setup Walkthrough" %}</p>
-
-
-
-
+<iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed" height="300px" width="100%" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay"></iframe>
 
 
 
@@ -23,24 +19,24 @@ unit: 1
 <h4>Jump To:</h4>
 <p1>
 
-<input type="button" onclick="window.location.href='#[00:00]';document.getElementByID('embed').innerHTML.replace('ewRKuI49vPQ','ewRKuI49vPQ?start=106') value='[00:00]'" />
-<a href="#[00:00]">[00:00]</a><br>
-<a href="#[01:16]">[01:16]</a><br>
-<a href="#[02:18]">[02:18]</a><br>
-<a href="#[02:44]">[02:44]</a><br>
-<a href="#[02:57]">[02:57]</a><br>
-<a href="#[03:49]">[03:49]</a><br>
-<a href="#[10:53]">[10:53]</a><br>
-<a href="#[11:29]">[11:29]</a><br>
-<a href="#[11:43]">[11:43]</a><br>
-<a href="#[12:53]">[12:53]</a><br>
-<a href="#[14:08]">[14:08]</a><br>
-<a href="#[18:29]">[18:29]</a><br>
-<a href="#[24:37]">[24:37]</a><br>
-<a href="#[29:57]">[29:57]</a><br>
-<a href="#[30:40]">[30:40]</a><br>
-<a href="#[31:13]">[31:13]</a><br>
-<a href="#[31:55]">[31:55]</a><br><br>
+<input type="button" onclick="window.location.href='#[00:00]';document.getElementByID('embed').innerHTML.replace('ewRKuI49vPQ?rel=0','ewRKuI49vPQ?start=106') value='[00:00]'" />
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=0&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[00:00]'" >[00:00]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=76&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[01:16]'" >[01:16]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=138&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[02:18]'" >[02:18]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=164&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[02:44]'" >[02:44]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=177&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[02:57]'" >[02:57]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=229&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[03:49]'" >[03:49]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=653&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[10:53]'" >[10:53]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=689&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[11:29]'" >[11:29]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=703&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[11:43]'" >[11:43]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=773&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[12:53]'" >[12:53]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=848&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[14:08]'" >[14:08]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1109&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[18:29]'" >[18:29]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1477&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[24:37]'" >[24:37]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1797&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[29:57]'" >[29:57]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1840&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[30:40]'" >[30:40]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1873&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[31:13]'" >[31:13]</a><br>
+<a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1915&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[31:55]'" >[31:55]</a><br><br>
 </p1>
 
 <p id="[00:00]"><h4>[00:00]</h4>

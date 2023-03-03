@@ -13,12 +13,8 @@ unit: 1
 ---
 
 #### <a href="codesnippets.html" target="_blank">Code Snippets</a>
-
----
-<div style="height: 500px; overflow: scroll;">
 <h4>Jump To:</h4>
 <p1>
-
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=0&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[00:00]'" >[00:00]</a><br>
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=76&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[01:16]'" >[01:16]</a><br>
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=138&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[02:18]'" >[02:18]</a><br>
@@ -37,7 +33,9 @@ unit: 1
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1873&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[31:13]'" >[31:13]</a><br>
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1915&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[31:55]'" >[31:55]</a><br><br>
 </p1>
+---
 
+<div style="height: 500px; overflow: scroll;">
 <p id="[00:00]"><h4>[00:00]</h4>
 
 Begin with a C++ Unreal Project (if using an existing Blueprint-only project, it must first be converted to a C++ project).

@@ -35,23 +35,17 @@ width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthr
 
 <div style="height: 300px;overflow: scroll;">
 <h4>[00:00]</h4>
-
-Begin with a C++ Unreal Project (if using an existing Blueprint-only project, it must first be converted to a C++ project).
-<br><br>
-In the content browser, navigate to C++ Classes, and then into the folder with your project’s name.
-<br><br>
-Create a new C++ class with Actor as the Parent Class. 
-<br><br>
-Name this <b>“ASplitScreenManager”</b>
-<br><br>
-Copy all of the provided code for ASplitScreenManager.cpp, and replace the default code with it.
-<br><br>
-For ASplitScreenManager.h copy ONLY the line <em>void ApplyEightViewportSettings();</em> and insert that line directly under <em>AASplitScreenManager();</em>
-<br><br>
-Save the files, and return to the editor.
-<br><br>
+<ul>
+  <li>Begin with a C++ Unreal Project (if using an existing Blueprint-only project, it must first be converted to a C++ project).</li>
+  <li>In the content browser, navigate to C++ Classes, and then into the folder with your project’s name.</li>
+  <li>Create a new C++ class with Actor as the Parent Class.</li>
+  <li>Name this <b>“ASplitScreenManager”</b></li>
+  <li>Copy all of the provided code for ASplitScreenManager.cpp, and replace the default code with it.</li>
+  <li>For ASplitScreenManager.h copy ONLY the line <em>void ApplyEightViewportSettings();</em> and insert that line directly under <em>AASplitScreenManager();</em></li>
+  <li>Save the files, and return to the editor.</li>
+</ul>
 <p id="[00:00]"></p>
-
+<br><br>
 <h4>[01:16]</h4>
 
 Create another C++ class, being sure to check “Show All Classes”

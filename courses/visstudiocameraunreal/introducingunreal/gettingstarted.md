@@ -4,11 +4,9 @@ title: "Setting Up a Project for the Visualization Studio"
 course: "visstudiocameraunreal"
 unit: 1
 ---
-
+<div style="height:600px; overflow:auto;">
 <iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed"
-width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay" allowfullscreen="true"></iframe>
-
-
+width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay" allowfullscreen="true"></iframe><br>
 
 ---
 
@@ -33,6 +31,7 @@ width="854" height="480" title="Visualization Studio Unreal Engine Setup Walkthr
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1873&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[31:13]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[31:13]</a>  ||  
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=1915&autoplay=1" target="embed" allow="autoplay" onclick="document.getElementById('[31:55]').scrollIntoView({ behavior: 'smooth', block: 'start', inline: 'nearest' });" >[31:55]</a><br><br>
 </p1>
+</div>
 ---
 
 <div style="height: 350px; overflow: scroll;">

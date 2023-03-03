@@ -6,7 +6,7 @@ unit: 1
 ---
 
 
-<iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed" height="300px" width="100%" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/ewRKuI49vPQ" name="embed" title="Visualization Studio Unreal Engine Setup Walkthrough" allow="autoplay"></iframe>
 
 
 
@@ -19,7 +19,6 @@ unit: 1
 <h4>Jump To:</h4>
 <p1>
 
-<input type="button" onclick="window.location.href='#[00:00]';document.getElementByID('embed').innerHTML.replace('ewRKuI49vPQ?rel=0','ewRKuI49vPQ?start=106') value='[00:00]'" />
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=0&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[00:00]'" >[00:00]</a><br>
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=76&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[01:16]'" >[01:16]</a><br>
 <a href="https://www.youtube.com/embed/ewRKuI49vPQ?start=138&autoplay=1" target="embed" allow="autoplay" onclick="location.href = '#[02:18]'" >[02:18]</a><br>

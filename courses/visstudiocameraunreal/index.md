@@ -1,12 +1,12 @@
 ---
 layout: unitlist
-title: Visualization Studio Unreal Engine Development Kit
+title: Visualization Gallery Unreal Engine Development Kit
 course: visstudiocameraunreal
 ---
 
-## Visualization Studio Unreal Engine Development Kit
+## Visualization Gallery Unreal Engine Development Kit
 
-This course is designed to be an introduction to using a specialized camera system made for the Unreal Engine Editor for use in the [Visualization Studio](https://www.lib.ncsu.edu/spaces/visualization-studio) at D. H. Hill Jr. Library at North Carolina State University.
+This course is designed to be an introduction to using a specialized camera system made for the Unreal Engine Editor for use in the [Visualization Gallery](https://www.lib.ncsu.edu/spaces/visualization-studio) at D. H. Hill Jr. Library at North Carolina State University.
 
 ---
 
@@ -18,6 +18,6 @@ Please note that this is not an introduction to Unreal Engine. To follow along w
 
 ### Before You Begin
 
-Before anything else, you will need a new or existing Unreal Engine project to prepare for use in the Visualization Studio. For Unreal Engine 4, projects should use engine version 4.26 or later (the same steps should work for earlier versions, but no testing has been done prior to 4.26). For Unreal Engine 5, any version will do (at the time of writing).
+Before anything else, you will need a new or existing Unreal Engine project to prepare for use in the Visualization Gallery. For Unreal Engine 4, projects should use engine version 4.26 or later (the same steps should work for earlier versions, but no testing has been done prior to 4.26). For Unreal Engine 5, any version will do (at the time of writing).
 
-To prepare your project for the Visualization Studio, follow along with the walkthrough video (link below), and reference the notes if/when needed.
+To prepare your project for the Visualization Gallery, follow along with the walkthrough video (link below), and reference the notes if/when needed.

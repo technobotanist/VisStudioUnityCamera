@@ -1,12 +1,12 @@
 visstudiocameraunity: # Course slug - a unique name for the course that does not contain spaces or special characters20
-  title: "Visualization Studio Unity Engine Development Kit"
+  title: "Visualization Gallery Unity Engine Development Kit"
   shorttitle: "Unity Sections" # Short title for each course. Displays in the navigation bar.
   homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
   announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified
   units_title: "Camera" # Label for "Unit" (singular). Defaults to "unit" if not specified.
   units: #Do not change.
     1: #Unit number
-      title: "VisSDK: 3D Camera" #Title for the unit
+      title: "VisSDK: Vis Gallery 3D Camera" #Title for the unit
       home: "firstpersoncamera/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
       pages: # List of all pages within the unit. Add or delete as needed.
         - title: "Getting Started with the 3D Camera" #Page Title
@@ -14,7 +14,7 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
         - title: "Setting Up the Camera in Your Scene" #Page Title
           url: "firstpersoncamera/settingup" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
     2: 
-      title: "VisSDK: 2D Camera"
+      title: "VisSDK: Vis Gallery 2D Camera"
       home: "twodimcamera/gettingstarted"
       pages:
         - title: "Getting Started with the 2D Camera"
@@ -22,7 +22,7 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
         - title: "Making Scenes for the Space"
           url: "twodimcamera/makingscenes"
     3:
-      title: "VisSDK: 3D Emulator"
+      title: "VisSDK: Vis Gallery 3D Emulator"
       home: "emulator/gettingstarted"
       pages:
         - title: "Getting Started with the Visualization Studio Emulator"

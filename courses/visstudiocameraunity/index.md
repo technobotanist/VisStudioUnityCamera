@@ -1,10 +1,10 @@
 ---
 layout: unitlist
-title: Visualization Studio Unity Engine Development Kit
+title: Visualization Gallery Unity Engine Development Kit
 course: visstudiocameraunity
 ---
 
-## Visualization Studio Unity Engine Development Kit
+## Visualization Gallery Unity Engine Development Kit
 
 This course is designed to be an introduction to using a specialized camera system made for the Unity development environment for use in the Visualization Spaces at North Carolina State University; those being the [Cyma Rubin Visualization Gallery](https://www.lib.ncsu.edu/spaces/visualization-studio) at D. H. Hill Jr. Library and the [Teaching and Visualization Lab](https://www.lib.ncsu.edu/spaces/teaching-and-visualization-lab) at James B. Hunt Jr. Library.
 

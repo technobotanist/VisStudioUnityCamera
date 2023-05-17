@@ -115,4 +115,4 @@ For information regarding setting up the UI for the Visualization Studio, you ca
 
 Once you have ensured that the camera and emulator are configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project to view an emulated Visualizaiton Studio. Please note that you will have to delete the emulator and follow the [3D Camera Tutorial](../firstpersoncamera/gettingstarted) to replace the camera system once you wish to put it in the actual Visualization studio.
 
-In order to schedule time to test your project within the Visualization Studio, please follow the instructions here: (```Insert link here```).
+In order to schedule time to test your project within the Visualization Studio, please follow the instructions here: (```Insert link here when this is finalized```).

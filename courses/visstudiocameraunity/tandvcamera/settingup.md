@@ -17,7 +17,7 @@ Once you have selected the package, the ```Import Unity Package``` dialog box wi
 
 ![Select and Import](images/selectimport.png)
 
-Once the package has been imported, you can find the camera by either looking through the ```Prefabs``` folder in the Assets folder of the Project Window, or by searching ```Camera Array``` within the Project Window Search bar.
+Once the package has been imported, you can find the camera by either looking through the ```Prefabs/T&V``` folder in the Assets folder of the Project Window, or by searching ```Camera Array``` within the Project Window Search bar.
 
 ![Find Camera Array in Project](images/searchcameraarray.png)
 
@@ -38,7 +38,7 @@ By default, the camera array is being controlled via a ```Character Controller``
 Before editing the camera controls, please keep a few things in mind:
 
 1. If you would prefer to start from scratch, then you will need to unpack the prefab and remove the CharacterController component as well as the CameraArrayController script.
-2. Please keep motion sickness in mind. The Visualization Gallery is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera array either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
+2. Please keep motion sickness in mind. The Teaching and Visualization Lab is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera array either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
 
 If you will be using the default camera controls provided, below is a list of the fields to consider when applying the camera array to your project. Understanding the specific variables and their purpose will allow you to alter them to best fit your project.
 
@@ -86,19 +86,19 @@ Within the Jump axis, you will need to set the ```Negative Button``` to be whate
 
 ### Display Resolution
 
-In your Game View, please ensure that the aspect ratio for Display 1 is set to the custom ```VisStudio``` resolution. If you have not set up this custom resolution, please follow the instructions from the previous unit to do so.
+In your Game View, please ensure that the aspect ratio for Display 1 is set to the custom ```T&V``` resolution. If you have not set up this custom resolution, please follow the instructions from the previous unit to do so.
 
 ![Gave View Resolution](images/finalaspectratio.png)
 
 ### Field of View
 
-Once you have checked that Display 1 has the correct resolution, you need to check to make sure the Field-of-View (FOV) of each of the cameras is set to 45. To do this, expand the ```Camera Array``` object in your scene and select all 8 cameras.
+Once you have checked that Display 1 has the correct resolution, you need to check to make sure the Field-of-View (FOV) of each of the cameras is set to 27.125. To do this, expand the ```Camera Array``` object in your scene and select all 8 cameras.
 
 ![Select the Eight Cameras](images/selectcameras.png)
 
-In the Inspector, find the ```Camera``` component and expand the ```Projection``` tab. Here you will see a slider for the Field of View. Make sure that this value is set to 45.
+In the Inspector, find the ```Camera``` component and expand the ```Projection``` tab. Here you will see a slider for the Field of View. Make sure that this value is set to 27.125.
 
-![Change FOV if needed to 45](images/preojectionfov.png)
+![Change FOV if needed to 45](images/projectionfov.png)
 
 ### Clipping Planes
 
@@ -111,7 +111,7 @@ While you are in the ```Projection``` tab, there are two fields that you may wan
 
 ### UI
 
-When working with UI for the Visualization Gallery in Unity, each Canvas that you create will need to be told to use the correct screen resolution. To do this, select your UI Canvas from the Hierarchy. Then in the Inspector, find and expand the ```Canvas Scalar``` component. Change the ```UI Scale Mode``` to be ```Fit to Screen``` and change the ```Reference Resolution``` to be 15360 x 1080.
+When working with UI for the Teaching and Visualization Lab in Unity, each Canvas that you create will need to be told to use the correct screen resolution. To do this, select your UI Canvas from the Hierarchy. Then in the Inspector, find and expand the ```Canvas Scalar``` component. Change the ```UI Scale Mode``` to be ```Fit to Screen``` and change the ```Reference Resolution``` to be 11860 x 1080.
 
 ![Canvas Scalar](images/CanvasScalar.png)
 
@@ -119,6 +119,6 @@ When working with UI for the Visualization Gallery in Unity, each Canvas that yo
 
 ## Final Words
 
-Once you have ensured that the camera is configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project within the Visualization Gallery. Please note that you will not be able to see how your project looks in the Visualization Gallery unless you build and run the project in the space or you use the 3D Emulator (Instructions for the emulator are part of another section). Play mode will only show a reduced size and will not wrap around the entire screen, even if the ```Maximize on Play``` option is selected.
+Once you have ensured that the camera is configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project within the Teaching and Visualization Lab. Please note that you will not be able to see how your project looks in the Teaching and Visualization lab unless you build and run the project in the space. Play mode will only show a reduced size and will not wrap around the entire screen, even if the ```Maximize on Play``` option is selected.
 
-In order to schedule time to test your project within the Visualization Gallery, please follow the instructions here: (```Insert link here when this is finalized```).
+In order to schedule time to test your project within the Teaching and Visualization Lab, please follow the instructions here: (```Insert link here when this is finalized```).

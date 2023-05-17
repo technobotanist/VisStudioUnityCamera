@@ -1,5 +1,5 @@
 visstudiocameraunity: # Course slug - a unique name for the course that does not contain spaces or special characters20
-  title: "Visualization Studio Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
+  title: "Visualization Spaces Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
   shorttitle: "Sections" # Short title for each course. Displays in the navigation bar.
   homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
   announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified
@@ -29,3 +29,11 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
           url: "emulator/gettingstarted"
         - title: "Setting Up the Emulator in Your Scene"
           url: "emulator/settingup"
+    4: #Unit number
+      title: "VisSDK: T&V 3D Camera" #Title for the unit
+      home: "tandv/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
+      pages: # List of all pages within the unit. Add or delete as needed.
+        - title: "Getting Started with the T&V Camera" #Page Title
+          url: "tandvcamera/gettingstarted" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+        - title: "Setting Up the Camera in Your Scene" #Page Title
+          url: "tandvcamera/settingup" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)

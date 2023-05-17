@@ -5,21 +5,21 @@ course: "visstudiocameraunity"
 unit: 2
 ---
 
-## Welcome to the VisSDK 2D Camera
+## Welcome to the VisSDK Visualization Gallery 2D Camera
 
-When setting up your Unity 2D project meant for the Visualization Studio you will need to follow the following specification instructions to create a 2D camera for use in the space. The camera can be altered for optimization within your specific project, however, the instructions within this section are for general use and creation and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact library_hightechspaces@ncsu.edu.
+When setting up your Unity 2D project meant for the Visualization Gallery you will need to follow the following specification instructions to create a 2D camera for use in the space. The camera can be altered for optimization within your specific project, however, the instructions within this section are for general use and creation and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact library_hightechspaces@ncsu.edu.
 
 ---
 
-## Setting up your project
+## Setting Up Your Project
 
-Before anything else, you are going to need a new or existing Unity 2D project to edit the camera in. The camera system was developed for Unity Version 2021.3.4f1 and if you already have a project created on a different version and you are adapting it for the Visualization Studio, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version and this instruction set does its best to keep the instructions general, but images and videos may not reflect your exact Unity setup.
+Before anything else, you are going to need a new or existing Unity 2D project to edit the camera in. The camera system was developed for Unity Version 2021.3.4f1 and if you already have a project created on a different version and you are adapting it for the Visualization Gallery, that is perfectly fine. Just know that some of the instructions provided may differ if you are using a different version and this instruction set does its best to keep the instructions general, but images and videos may not reflect your exact Unity setup.
 
 ---
 
 ## Custom Resolution
 
-In order for the camera system to function properly, you are going to need to set up a custom resolution for your display within the Game View section of the Unity Editor. While the Visualization Studio is an array of 8 projectors, what is being displayed is considered only one display, rather than eight, with a resolution of 15360 x 1080. Think of it as all eight views being stitched together into one long string that will wrap around the space.
+In order for the camera system to function properly, you are going to need to set up a custom resolution for your display within the Game View section of the Unity Editor. While the Visualization Gallery is an array of 8 projectors, what is being displayed is considered only one display, rather than eight, with a resolution of 15360 x 1080. Think of it as all eight views being stitched together into one long string that will wrap around the space.
 
 To set up a custom resolution, you will first need to go to the Game View screen in the Unity Editor.
 
@@ -51,4 +51,4 @@ In your game view, the top bar should now look like this.
 
 ---
 
-Now that the custom resolution is created and selected, you are all set to develop 2D scenes for the Visualization Studio. With that being said, we recommend that you continue through the unit for some helpful tips and considerations that will benefit your development process and your final product.
+Now that the custom resolution is created and selected, you are all set to develop 2D scenes for the Visualization Gallery. With that being said, we recommend that you continue through the unit for some helpful tips and considerations that will benefit your development process and your final product.

@@ -31,7 +31,7 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
           url: "emulator/settingup"
     4: #Unit number
       title: "VisSDK: T&V 3D Camera" #Title for the unit
-      home: "tandv/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
+      home: "tandvcamera/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
       pages: # List of all pages within the unit. Add or delete as needed.
         - title: "Getting Started with the T&V Camera" #Page Title
           url: "tandvcamera/gettingstarted" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)

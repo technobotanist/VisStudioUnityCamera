@@ -43,7 +43,7 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
       pages:
         - title: "Getting Started with Alternate Control Schemes"
           url: "controlschemes/gettingstarted"
-        - title: "Setting Up Gyro Controls for the Vis Gallery"
+        - title: "Vis Gallery DualShock 4 Gyro Controls"
           url: "controlschemes/gyrocontrols"
 visstudiocameraunreal: # Course slug - a unique name for the course that does not contain spaces or special characters20
   title: "Visualization Gallery Unreal Engine Development Kit" # Full title for the course. Displays in the title bar and at the top of each page

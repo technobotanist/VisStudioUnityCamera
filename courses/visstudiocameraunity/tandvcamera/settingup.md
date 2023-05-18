@@ -2,7 +2,7 @@
 layout: page
 title: "Setting Up the Camera in Your Scene"
 course: "visstudiocameraunity"
-unit: 1
+unit: 4
 ---
 
 ## Importing the Camera
@@ -98,7 +98,7 @@ Once you have checked that Display 1 has the correct resolution, you need to che
 
 In the Inspector, find the ```Camera``` component and expand the ```Projection``` tab. Here you will see a slider for the Field of View. Make sure that this value is set to 27.125.
 
-![Change FOV if needed to 45](images/projectionfov.png)
+![Change FOV if needed to 27.125](images/projectionfov.png)
 
 ### Clipping Planes
 

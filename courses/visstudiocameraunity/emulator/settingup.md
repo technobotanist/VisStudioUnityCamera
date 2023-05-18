@@ -48,7 +48,7 @@ By default, the emulator's camera array is being controlled via a ```Character C
 Before editing the camera controls, please keep a few things in mind:
 
 1. If you would prefer to start from scratch, then you will need to unpack the prefab and remove the CharacterController component as well as the CameraArrayController script.
-2. Please keep motion sickness in mind. The Visualization Studio is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera array either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
+2. Please keep motion sickness in mind. The Visualization Gallery is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera array either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
 
 If you will be using the default camera controls provided, below is a list of the fields to consider when applying the camera array to your project. Understanding the specific variables and their purpose will allow you to alter them to best fit your project.
 
@@ -105,14 +105,14 @@ While you are in the ```Projection``` tab, there are two fields that you may wan
 
 ### UI
 
-Please note that any UI that has been created will not show up correctly in the emulator as the method by which the emulator is set up does not allow for the same UI editing as the Visualization Studio. UI will have to be tested in the Visualization Studio for accuracy.
+Please note that any UI that has been created will not show up correctly in the emulator as the method by which the emulator is set up does not allow for the same UI editing as the Visualization Gallery. UI will have to be tested in the Visualization Gallery for accuracy.
 
-For information regarding setting up the UI for the Visualization Studio, you can follow the instructions found in the 3D Camera course here (Insert link)
+For information regarding setting up the UI for the Visualization Gallery, you can follow the instructions found in the 3D Camera course here (Insert link)
 
 ---
 
 ## Final Words
 
-Once you have ensured that the camera and emulator are configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project to view an emulated Visualizaiton Studio. Please note that you will have to delete the emulator and follow the [3D Camera Tutorial](../firstpersoncamera/gettingstarted) to replace the camera system once you wish to put it in the actual Visualization studio.
+Once you have ensured that the camera and emulator are configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project to view an emulated Visualization Gallery. Please note that you will have to delete the emulator and follow the [3D Camera Tutorial](../firstpersoncamera/gettingstarted) to replace the camera system once you wish to put it in the actual Visualization Gallery.
 
-In order to schedule time to test your project within the Visualization Studio, please follow the instructions here: (```Insert link here when this is finalized```).
+In order to schedule time to test your project within the Visualization Gallery, please follow the instructions here: (```Insert link here when this is finalized```).

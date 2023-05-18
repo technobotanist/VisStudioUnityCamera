@@ -25,7 +25,7 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
       title: "VisSDK: Vis Gallery 3D Emulator"
       home: "emulator/gettingstarted"
       pages:
-        - title: "Getting Started with the Visualization Studio Emulator"
+        - title: "Getting Started with the Visualization Gallery Emulator"
           url: "emulator/gettingstarted"
         - title: "Setting Up the Emulator in Your Scene"
           url: "emulator/settingup"
@@ -37,6 +37,14 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
           url: "tandvcamera/gettingstarted" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
         - title: "Setting Up the Camera in Your Scene" #Page Title
           url: "tandvcamera/settingup" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+    5:
+      title: "VisSDK: Alternate Controls"
+      home: "controlschemes/gettingstarted"
+      pages:
+        - title: "Getting Started with Alternate Control Schemes"
+          url: "controlschemes/gettingstarted"
+        - title: "Setting Up Gyro Controls for the Vis Gallery"
+          url: "controlschemes/gyrocontrols"
 visstudiocameraunreal: # Course slug - a unique name for the course that does not contain spaces or special characters20
   title: "Visualization Gallery Unreal Engine Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
   shorttitle: "Unreal Sections" # Short title for each course. Displays in the navigation bar.

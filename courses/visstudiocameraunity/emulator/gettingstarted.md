@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Getting Started with the VisSDK Emulator"
+title: "Getting Started with the Visualization Gallery Emulator"
 course: "visstudiocameraunity"
 unit: 3
 ---

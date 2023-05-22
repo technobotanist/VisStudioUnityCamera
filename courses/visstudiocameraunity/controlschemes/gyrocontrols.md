@@ -17,7 +17,7 @@ This unit will cover the instructions for installing and setting up gyro control
 
 Below you will find the link to a github repo with the camera packages. You will want to download the package file named ```GyroControls.unitypackage```.
 
-* [Gyro Controls Package Download](https://github.com/technobotanist/VisStudioTesting/blob/main/Assets/Packages/GyroControls.unitypackage)
+* [Gyro Controls Package Download](https://go.ncsu.edu/vissdkunity_gyro_control)
 
 ---
 
@@ -68,4 +68,4 @@ To rebind any of these controls or to add your own, you can edit the PlayerInput
 
 ## Final Words
 
-Once you have ensured that the gyro controls are integrated properly, then the gyro controls should be all set to be used in your project for the Visualization Gallery. In order to schedule time to test your project within the Visualization Gallery, please follow the instructions here: (```Insert link here when this is finalized```).
+Once you have ensured that the gyro controls are integrated properly, then the gyro controls should be all set to be used in your project for the Visualization Gallery. In order to schedule time to test your project within the Visualization Gallery, please follow the instructions [here](https://go.ncsu.edu/libraries_hts_request).

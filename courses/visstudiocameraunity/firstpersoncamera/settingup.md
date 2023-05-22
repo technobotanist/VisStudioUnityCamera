@@ -121,4 +121,4 @@ When working with UI for the Visualization Gallery in Unity, each Canvas that yo
 
 Once you have ensured that the camera is configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project within the Visualization Gallery. Please note that you will not be able to see how your project looks in the Visualization Gallery unless you build and run the project in the space or you use the 3D Emulator (Instructions for the emulator are part of another section). Play mode will only show a reduced size and will not wrap around the entire screen, even if the ```Maximize on Play``` option is selected.
 
-In order to schedule time to test your project within the Visualization Gallery, please follow the instructions here: (```Insert link here when this is finalized```).
+In order to schedule time to test your project within the Visualization Gallery, please follow the instructions [here](https://go.ncsu.edu/libraries_hts_request).

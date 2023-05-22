@@ -35,4 +35,4 @@ Please keep motion sickness in mind. The Visualization Gallery is an immersive e
 
 Once you have ensured that your scene is configured properly for 2D in the Visualization Gallery, then your 2D project should be ready to be used within the Visualization Studio. Please note that you will not be able to see how your project looks in the Visualization Gallery unless you build and run the project in the space. Play mode will only show a reduced size and will not wrap around the entire screen, even if the ```Maximize on Play``` option is selected. 
 
-In order to schedule time to test your project within the Visualization Gallery, please follow the instructions here (```Insert link here when this is finalized```).
+In order to schedule time to test your project within the Visualization Gallery, please follow the instructions [here](https://go.ncsu.edu/libraries_hts_request).

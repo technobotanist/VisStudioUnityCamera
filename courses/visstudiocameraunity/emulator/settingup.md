@@ -15,7 +15,7 @@ With the emulator package downloaded, you will now need to import it into your U
 
 Once you have selected the package, the ```Import Unity Package``` dialog box will display with all the items within the package. Please ensure that all items are selected/checked and then select ```Import``` at the bottom of the dialog box.
 
-![Select and Import](images/importall.png)
+![Select and Import](images/customimport.png)
 
 Once the package has been imported, you can find the emulator by either looking through the ```Prefabs``` folder in the Assets folder of the Project Window, or by searching ```Emulator``` within the Project Window Search bar.
 

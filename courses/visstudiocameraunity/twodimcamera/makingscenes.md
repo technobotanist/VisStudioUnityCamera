@@ -11,7 +11,7 @@ unit: 2
 
 ### Full Utilization of the Screen
 
-When developing 2D scenes for the Visualization Gallery, one of the main challenges you will face is what to do with the point where the right edge of the screen meets the left edge of the screen. What is displayed when running your scene is one continuous screen, so you must think about how it all blends together at that end point. Keeping this in mind from the start will help you make decisions about how you will develop your scene and what you may or may not be able to do with your project.
+When developing 2D scenes for the Cyma Rubin Visualization Gallery, one of the main challenges you will face is what to do with the point where the right edge of the screen meets the left edge of the screen. What is displayed when running your scene is one continuous screen, so you must think about how it all blends together at that end point. Keeping this in mind from the start will help you make decisions about how you will develop your scene and what you may or may not be able to do with your project.
 
 If you would like, for reference on scenes that take show some of the ways to work with this edge zone, take a look at this suite of demos: (Insert Hank's Haven link).
 

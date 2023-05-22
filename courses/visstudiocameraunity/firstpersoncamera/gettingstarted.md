@@ -7,7 +7,7 @@ unit: 1
 
 ## Welcome to the VisSDK Visualization Gallery 3D Camera
 
-When setting up your Unity 3D project meant for the Visualization Gallery you will need to utilize a pre-built First-Person camera created for use in the space. The camera has defined features that can be altered for optimization within your specific project, however, the instructions within this section are for general use and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact library_hightechspaces@ncsu.edu.
+When setting up your Unity 3D project meant for the Cyma Rubin Visualization Gallery you will need to utilize a pre-built First-Person camera created for use in the space. The camera has defined features that can be altered for optimization within your specific project, however, the instructions within this section are for general use and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact library_hightechspaces@ncsu.edu.
 
 ---
 

@@ -38,7 +38,7 @@ By default, the camera array is being controlled via a ```Character Controller``
 Before editing the camera controls, please keep a few things in mind:
 
 1. If you would prefer to start from scratch, then you will need to unpack the prefab and remove the CharacterController component as well as the CameraArrayController script.
-2. Please keep motion sickness in mind. The Visualization Gallery is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera array either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
+2. Please keep motion sickness in mind. The Cyma Rubin Visualization Gallery is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera array either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
 
 If you will be using the default camera controls provided, below is a list of the fields to consider when applying the camera array to your project. Understanding the specific variables and their purpose will allow you to alter them to best fit your project.
 

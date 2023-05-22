@@ -9,4 +9,4 @@ unit: 5
 
 Some projects for the Visualization Spaces might benefit from alternate control schemes beyond the default keyboard and mouse controls provided in the camera packages. If you have not yet installed one of these packages, you can go [here](../index.md) and follow the unit for the camera system you wish to work with for your project. 
 
-The following sections of this unit will cover various control schemes that have been developed for the different Visualizations Spaces and how to install and set up each. If any questions arise while following these instructions, please contact library_hightechspaces@ncsu.edu.
+The following sections of this unit will cover various control schemes that have been developed for the different Visualization Spaces and how to install and set up each. If any questions arise while following these instructions, please contact library_hightechspaces@ncsu.edu.

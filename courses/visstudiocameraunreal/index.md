@@ -6,7 +6,7 @@ course: visstudiocameraunreal
 
 ## Visualization Gallery Unreal Engine Development Kit
 
-This course is designed to be an introduction to using a specialized camera system made for the Unreal Engine Editor for use in the [Visualization Gallery](https://www.lib.ncsu.edu/spaces/visualization-studio) at D. H. Hill Jr. Library at North Carolina State University.
+This course is designed to be an introduction to using a specialized camera system made for the Unreal Engine Editor for use in the [Cyma Rubin Visualization Gallery](https://www.lib.ncsu.edu/spaces/cyma-rubin-visualization-gallery) at D. H. Hill Jr. Library at North Carolina State University.
 
 ---
 

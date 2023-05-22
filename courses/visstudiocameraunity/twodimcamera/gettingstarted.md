@@ -7,7 +7,7 @@ unit: 2
 
 ## Welcome to the VisSDK Visualization Gallery 2D Camera
 
-When setting up your Unity 2D project meant for the Visualization Gallery you will need to follow the following specification instructions to create a 2D camera for use in the space. The camera can be altered for optimization within your specific project, however, the instructions within this section are for general use and creation and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact library_hightechspaces@ncsu.edu.
+When setting up your Unity 2D project meant for the Cyma Rubin Visualization Gallery you will need to follow the following specification instructions to create a 2D camera for use in the space. The camera can be altered for optimization within your specific project, however, the instructions within this section are for general use and creation and may not pertain to a specialization you require. If any questions arise while following these instructions or adjusting the camera, please contact library_hightechspaces@ncsu.edu.
 
 ---
 

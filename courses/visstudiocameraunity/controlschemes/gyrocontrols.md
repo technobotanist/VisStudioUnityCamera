@@ -5,7 +5,7 @@ course: "visstudiocameraunity"
 unit: 5
 ---
 
-## Welcome to the Vis Gallery Gyro Controls for DualShock 4
+## Welcome to the Cyma Rubin Visualization Gallery Gyro Controls for DualShock 4
 
 ### Developer: Phillips Albright
 

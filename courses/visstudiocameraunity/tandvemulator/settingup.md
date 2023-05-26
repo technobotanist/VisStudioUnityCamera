@@ -2,7 +2,7 @@
 layout: page
 title: "Setting Up the Emulator in Your Scene"
 course: "visstudiocameraunity"
-unit: 7
+unit: 6
 ---
 
 ## Importing the Emulator
@@ -35,9 +35,7 @@ After the emulator has been placed in your scene, you will want to move around a
 
 ![Emulator Components](images/emulatorcomponents.png)
 
-Firstly, the directional lighting in the emulator does not interact with the VisStudio, so you will want to either delete your previous directional lighting, or change it to not interact with the VisStudio. This allows for a more accurate lighting profile within the emulator.
-
-Next up, you will want to move the VisStudio away from where the camera array will be. We recommend that you move the VisStudio far down to keep it out of the way and out of view.
+First up, you will want to move the Model away from where the camera array will be. We recommend that you move the Model far down to keep it out of the way and out of view.
 
 Finally, you will want to move the Camera Array to where you want it in the scene.
 
@@ -48,7 +46,7 @@ By default, the emulator's camera array is being controlled via a ```Character C
 Before editing the camera controls, please keep a few things in mind:
 
 1. If you would prefer to start from scratch, then you will need to unpack the prefab and remove the CharacterController component as well as the CameraArrayController script.
-2. Please keep motion sickness in mind. The Cyma Rubin Visualization Gallery is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera array either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
+2. Please keep motion sickness in mind. The Teaching and Visualization Lab is an immersive experience, meaning extra precautions need to be taken when working with motion. We would recommend that vertical rotation of the camera array either be minimal or nonexistent. If horizontal rotation is needed, keep the speed of the rotation fairly slow. We would also recommend that any vertical motion be tightly controlled as to not cause a feeling of falling through the floor.
 
 If you will be using the default camera controls provided, below is a list of the fields to consider when applying the camera array to your project. Understanding the specific variables and their purpose will allow you to alter them to best fit your project.
 
@@ -62,12 +60,19 @@ If you will be using the default camera controls provided, below is a list of th
 
 * ```Walking Speed```: The horizontal speed of motion of the camera controller.
 * ```Vertical Speed```: The vertical speed of motion of the camera controller.
-* ```Look Speed```: The speed at which the camera array will rotate when moving the mouse left and right.
+* ```Look Speed```: The speed at which the camera array will rotate when moving the mouse left and right. **Currently, this value is set to 0 as mouse controls are being used by the camera inside the emulator itself. If you would prefer to have the camera array rotate and the interior camera remain still, you can set this ```Look Speed``` and ```Look X Limit``` (we recommend Look Speed be set to 2 and Look X Limit to be set to 45) and disable the ```Main Camera Controller``` in the interior camera.**
+
+![Interior Camera](images/interiorcamera.png)
+
+![Main Camera Controller](images/maincameracontroller.png)
 
 ### The current controls of the camera array are as follows
 
 * ```Horizontal Movement```: WASD
 * ```Vertical Movent```: Space and Left Shift
+
+### The current controls of the interior camera are as follows
+
 * ```Camera Rotation```: Mouse
 
 It is also important to note that the forward direction, unless otherwise scripted, will be positioned between the fourth and fifth cameras, even if the camera is rotated during play.
@@ -105,14 +110,14 @@ While you are in the ```Projection``` tab, there are two fields that you may wan
 
 ### UI
 
-Please note that any UI that has been created will not show up correctly in the emulator as the method by which the emulator is set up does not allow for the same UI editing as the Visualization Gallery. UI will have to be tested in the Visualization Gallery for accuracy.
+Please note that any UI that has been created will not show up correctly in the emulator as the method by which the emulator is set up does not allow for the same UI editing as the Teaching and Visualization Lab. UI will have to be tested in the Teaching and Visualization Lab for accuracy.
 
-For information regarding setting up the UI for the Visualization Gallery, you can follow the instructions found in the 3D Camera course [here](../firstpersoncamera/settingup.md)
+For information regarding setting up the UI for the Teaching and Visualization Lab, you can follow the instructions found in the 3D Camera course [here](../tandvcamera/settingup.md)
 
 ---
 
 ## Final Words
 
-Once you have ensured that the camera and emulator are configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project to view an emulated Visualization Gallery. Please note that you will have to delete the emulator and follow the [3D Camera Tutorial](../firstpersoncamera/gettingstarted) to replace the camera system once you wish to put it in the actual Visualization Gallery.
+Once you have ensured that the camera and emulator are configured properly, if you are using the given camera controller, then the camera should be all set to be used in your project to view an emulated Teaching and Visualization Lab. Please note that you will have to delete the emulator and follow the [3D Camera Tutorial](../tandvcamera/gettingstarted) to replace the camera system once you wish to put it in the actual Teaching and Visualization Lab.
 
-In order to schedule time to test your project within the Visualization Gallery, please follow the instructions [here](https://go.ncsu.edu/libraries_hts_request).
+In order to schedule time to test your project within the Teaching and Visualization Lab, please follow the instructions [here](https://go.ncsu.edu/libraries_hts_request).

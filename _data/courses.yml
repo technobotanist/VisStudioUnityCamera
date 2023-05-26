@@ -29,15 +29,31 @@ visstudiocameraunity: # Course slug - a unique name for the course that does not
           url: "emulator/gettingstarted"
         - title: "Setting Up the Emulator in Your Scene"
           url: "emulator/settingup"
-    4: #Unit number
-      title: "VisSDK: T&V 3D Camera" #Title for the unit
-      home: "tandvcamera/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
-      pages: # List of all pages within the unit. Add or delete as needed.
-        - title: "Getting Started with the T&V Camera" #Page Title
-          url: "tandvcamera/gettingstarted" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
-        - title: "Setting Up the Camera in Your Scene" #Page Title
-          url: "tandvcamera/settingup" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+    4:
+      title: "VisSDK: T&V 3D Camera"
+      home: "tandvcamera/gettingstarted"
+      pages:
+        - title: "Getting Started with the T&V Camera"
+          url: "tandvcamera/gettingstarted"
+        - title: "Setting Up the Camera in Your Scene"
+          url: "tandvcamera/settingup"
     5:
+      title: "VisSDK: T&V 2D Camera"
+      home: "tandvtwodimcamera/gettingstarted"
+      pages:
+        - title: "Getting Started with the T&V 2D Camera"
+          url: "tandvtwodimcamera/gettingstarted"
+        - title: "Making Scenes for the Space"
+          url: "tandvtwodimcamera/settingup"
+    6:
+      title: "VisSDK: T&V Emulator"
+      home: "tandvemulator/gettingstarted"
+      pages:
+        - title: "Getting Started with the T&V Emulator"
+          url: "tandvemulator/gettingstarted"
+        - title: "Setting Up the Emulator in Your Scene"
+          url: "tandvemulator/settingup"
+    7:
       title: "VisSDK: Alternate Controls"
       home: "controlschemes/gettingstarted"
       pages:

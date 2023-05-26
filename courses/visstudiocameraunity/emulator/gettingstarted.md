@@ -2,7 +2,7 @@
 layout: page
 title: "Getting Started with the Visualization Gallery Emulator"
 course: "visstudiocameraunity"
-unit: 3
+unit: 7
 ---
 
 ## Welcome to the VisSDK Visualization Gallery Emulator

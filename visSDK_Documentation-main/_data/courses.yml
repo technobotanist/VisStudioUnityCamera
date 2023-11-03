@@ -1,0 +1,64 @@
+visstudiocameraunity: # Course slug - a unique name for the course that does not contain spaces or special characters20
+  title: "Visualization Gallery Unity Engine Development Kit"
+  shorttitle: "Unity Sections" # Short title for each course. Displays in the navigation bar.
+  homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
+  announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified
+  units_title: "Camera" # Label for "Unit" (singular). Defaults to "unit" if not specified.
+  units: #Do not change.
+    1: #Unit number
+      title: "VisSDK: Vis Gallery 3D Camera" #Title for the unit
+      home: "firstpersoncamera/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
+      pages: # List of all pages within the unit. Add or delete as needed.
+        - title: "Getting Started with the 3D Camera" #Page Title
+          url: "firstpersoncamera/gettingstarted" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+        - title: "Setting Up the Camera in Your Scene" #Page Title
+          url: "firstpersoncamera/settingup" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+    2: 
+      title: "VisSDK: Vis Gallery 2D Camera"
+      home: "twodimcamera/gettingstarted"
+      pages:
+        - title: "Getting Started with the 2D Camera"
+          url: "twodimcamera/gettingstarted"
+        - title: "Making Scenes for the Space"
+          url: "twodimcamera/makingscenes"
+    3:
+      title: "VisSDK: Vis Gallery 3D Emulator"
+      home: "emulator/gettingstarted"
+      pages:
+        - title: "Getting Started with the Visualization Gallery Emulator"
+          url: "emulator/gettingstarted"
+        - title: "Setting Up the Emulator in Your Scene"
+          url: "emulator/settingup"
+    4: #Unit number
+      title: "VisSDK: T&V 3D Camera" #Title for the unit
+      home: "tandvcamera/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
+      pages: # List of all pages within the unit. Add or delete as needed.
+        - title: "Getting Started with the T&V Camera" #Page Title
+          url: "tandvcamera/gettingstarted" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+        - title: "Setting Up the Camera in Your Scene" #Page Title
+          url: "tandvcamera/settingup" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+    5:
+      title: "VisSDK: Alternate Controls"
+      home: "controlschemes/gettingstarted"
+      pages:
+        - title: "Getting Started with Alternate Control Schemes"
+          url: "controlschemes/gettingstarted"
+        - title: "Vis Gallery DualShock 4 Gyro Controls"
+          url: "controlschemes/gyrocontrols"
+visstudiocameraunreal: # Course slug - a unique name for the course that does not contain spaces or special characters20
+  title: "Visualization Gallery Unreal Engine Development Kit" # Full title for the course. Displays in the title bar and at the top of each page
+  shorttitle: "Unreal Sections" # Short title for each course. Displays in the navigation bar.
+  homepage: "index" # Homepage for the course. Relative to "courses/[slug]". Do not include a filename suffix (i.e. .md or .html)
+  announcements_title: "Updates" # Label for the "Announcements" section. Default is "announcements" if not specified
+  units_title: "Section" # Label for "Unit" (singular). Defaults to "unit" if not specified.
+  units: #Do not change.
+    1: #Unit number
+      title: "Visualization Gallery Cameras for Unreal Engine" #Title for the unit
+      home: "introducingunreal/gettingstarted" # Unit Home Page (Relative to "courses/[slug]"). Do not include a filename suffix (i.e. .md or .html)
+      pages: # List of all pages within the unit. Add or delete as needed.
+        - title: "Setting up an Unreal Engine Project" #Page Title
+          url: "introducingunreal/gettingstarted" #Page URL relative to courses/[slug]. Do not include a filename suffix (i.e. .md or .html)
+        - title: "Additional Setup"
+          url: "introducingunreal/advancedsetup" 
+        - title: "Additional Information (Optional)"
+          url: "introducingunreal/additional-information" 
